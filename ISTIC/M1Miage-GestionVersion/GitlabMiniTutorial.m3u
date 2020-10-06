@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0,1: création de groupe + projet gitlab, ligne de commande , et utilisation via eclipse
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1xWuPbhEpqpXQbKSD6tQOLFLO-SD0FSPC
+#EXTINF:0,2: création d'un runner gitlab (dans un docker local)
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1810xJCJfWIM797LmwSvyZ9Qzj01Ynyw7
+#EXTINF:0,3: mise en place d'un pipeline simple pour le build et les tests
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/19ETNWKEMHhGTHDHPNpD1uwDIu4NSFXOG
+

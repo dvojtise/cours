@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:0,1: introduction
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1P48b9JPCmSjOjY62Sr3OQKgJsyILSAju
+#EXTINF:0,2: généralités autours des outils de gestion de version
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1OefPIdGw8_AzkszSSmf5ok3XuirWipoK
+#EXTINF:0,3.1: Subversion: usage de base
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1YR7cks1yqQ_SLsSw3m5lnRlKOVxrGgir
+#EXTINF:0,3.2: Subversion: usage plus avancé
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1MXehnpd8nJoeUCcONiKA9P59cNs-Ogf2
+#EXTINF:0,4.1: Outils de gestion de version décentralisés
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1t5vGSy4j2p_brkGfM0LTfZKhPTejQjOG
+#EXTINF:0,4.2.a: Git: historique et introduction
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1Llhrvlebln6SBzA38d-Qeir71flYfgPX
+#EXTINF:0,4.2.b: Git: usage de base, utilisation de l'index
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1o65jrqv_Ghd5z4_4E0KVUq2edsuOT3IH
+#EXTINF:0,4.2.c: Git: merge/rebase
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1ei3HJFpl3pIW5BgY-JUgpDYEVq7_Z9uX
+#EXTINF:0,4.2.d: Git: workflows
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/16WgWL1OCYpoVjhxcwn3f4w3lZdCb0UQO
+#EXTINF:0,4.2.e: Git: pièges et usages avancés
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1brLHU09tHyh-UY3iZwrfAzB0gWmuWOXo
+#EXTINF:0,4.3: Surchouches à git: forges(gitlab/github), modèle fork/pull request
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1mXaMOvypjhLm0iAzAjrfIypzqXYgSENL
+#EXTINF:0,5.1: Outils complémentaires à la gestion de version
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/163ChApPRAony4zMNwEkT-hk7r3fjGL9M
+#EXTINF:0,5.2: Intégration continue
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1FBshUWUo_kvOsAv0hfKZn94bWq8vqSDq
+#EXTINF:0,6: conclusion
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/file/d/1mro6l11zWqDl_N3HNpI8a0cvLZlgcpVu
+
